@@ -7,5 +7,7 @@
 Add-Ons/
 tower.blend
 Tavern.blend
+Wallsign.blend
+MagicalSword.blend
+
 Backup/
-find . -size +100M | cat >> .gitignore
