@@ -1,0 +1,11 @@
+*.blend1
+*.stl
+*.fbx
+*.obj
+*mtl
+*glb
+Add-Ons/
+tower.blend
+Tavern.blend
+Backup/
+find . -size +100M | cat >> .gitignore
